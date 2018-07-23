@@ -1,2 +1,2 @@
 # POTBot
-Smart camera systems for tracking climate change underwater
+Smart camera systems for tracking climate change underwater in fish and habitat
