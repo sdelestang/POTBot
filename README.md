@@ -43,6 +43,7 @@ POTBot/
 | Wet Switch | Conductivity-based (analog) |
 
 ## Getting Started
+### Download all files inclusing the manual
 
 ### Prerequisites
 
