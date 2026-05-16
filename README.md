@@ -44,6 +44,7 @@ POTBot/
 
 ## Getting Started
 ### Download all files inclusing the manual
+Download the firmware from GitHub. Navigate to https://github.com/sdelestang/POTBot and click the green “Code” button, then select “Download ZIP”. Save and extract the ZIP file to a convenient location on your computer (e.g. C:\POTBot).
 
 ### Prerequisites
 
