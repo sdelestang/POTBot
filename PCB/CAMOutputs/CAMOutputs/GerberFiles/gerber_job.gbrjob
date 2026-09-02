@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2023-08-07T11:13:01Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.6.2"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "Potbot_v6"
+        },
+        "Owner": "Nestor Vazquez <00096233@uwa.edu.au>",
+        "Size": {
+            "X": 149.42,
+            "Y": 30.06
+        }
+    }
+}
